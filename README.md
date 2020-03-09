@@ -5,6 +5,8 @@ This is a simple AI that used to move your object depending on path and used for
 
 **Preview**
 *editor viewport*
-![enter image description here](https://github.com/maldinipunisher/simple-path-tracing/blob/master/viewport.gif)
+
+![editor view](https://github.com/maldinipunisher/simple-path-tracing/blob/master/viewport.gif)
+
 *gameplay viewport*
-![enter image description here](https://github.com/maldinipunisher/simple-path-tracing/blob/master/gameview.gif)
+![game view](https://github.com/maldinipunisher/simple-path-tracing/blob/master/gameview.gif)
